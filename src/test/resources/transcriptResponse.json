@@ -1,0 +1,28 @@
+{ "created_at" : "2017-04-07 08:40:09 +0000",
+  "id" : 48,
+  "language" : "en_US",
+  "recording_ids" : [ 47 ],
+  "results" : [ { "channels" : [ [ { "from" : 0.01,
+    "text" : "uh yes to an end but that we use the that tent as lee you the move",
+    "to" : 5.9299999999999997
+  },
+    { "from" : 6.2699999999999996,
+      "text" : "that's an ugly aussie and that you passed a law and use it and will use of the greed and that we can all get these any more from",
+      "to" : 16.149999999999999
+    },
+    { "from" : 57.640000000000001,
+      "text" : "and um",
+      "to" : 60.32
+    },
+    { "from" : 60.520000000000003,
+      "text" : "o d m one of that doesn't work well to handle are you son of a packet",
+      "to" : 64.420000000000002
+    }
+  ] ],
+    "recording_id" : 47,
+    "status" : "completed"
+  } ],
+  "status" : "completed",
+  "success" : true,
+  "updated_at" : "2017-04-07 08:48:59 +0000"
+}
